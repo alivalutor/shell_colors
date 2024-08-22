@@ -13,6 +13,8 @@ wget https://raw.githubusercontent.com/alivalutor/shell_colors/master/shell_colo
 chmod +x shell_color
 ./shell_color
 rm shell_color
+# Установка одной строкой
+wget https://raw.githubusercontent.com/alivalutor/shell_colors/master/shell_color && chmod +x shell_color && ./shell_color && rm shell_color
 ```
 
 ## Установка подсветки nanorc из [imbicile.nano](https://github.com/imbicile/imbicile.nano)
@@ -22,6 +24,8 @@ wget https://raw.githubusercontent.com/alivalutor/shell_colors/master/nanorc
 chmod +x nanorc
 ./nanorc
 rm nanorc
+# Установка одной строкой
+wget https://raw.githubusercontent.com/alivalutor/shell_colors/master/nanorc && chmod +x nanorc && ./nanorc && rm nanorc
 ```
 ## Для автоматизации установки лучше использовать ansible [imbicile.environment](https://github.com/imbicile/imbicile.environment)
 
