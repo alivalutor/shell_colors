@@ -2,7 +2,7 @@
 
 Ссылка на статью - <https://imbicile.pp.ru/podsvetka-v-bash/>
 
-1. .bashrc - Конфигурация bash.
+1. .bashrc - Конфигурация bash
 2. shell_color - Файл установки
 3. shell_color_ansible - Файл установки стиля из роли ansible
 
